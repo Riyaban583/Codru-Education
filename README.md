@@ -1,12 +1,64 @@
-# React + Vite
+# Codru Education – Course Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed as part of my internship work in collaboration with **Akshat Srivastava**.  
+The main objective of this project was to design and develop a modern, responsive, and user-friendly Course Page for Codru Education.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Project Overview
 
-## Expanding the ESLint configuration
+The Codru Education Course Page is a frontend web application designed to showcase various courses offered by the platform.  
+It provides an interactive and visually appealing interface for students to explore available programs.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- 📚 Course listing with structured layout
+- 🎨 Clean and modern UI design
+- 📱 Fully responsive design
+- ⚡ Fast performance using Vite
+- 🔄 Component-based architecture (React)
+- 🖱 Interactive elements and smooth navigation
+
+---
+
+## 🛠 Tech Stack Used
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git & GitHub
+
+---
+
+## 👩‍💻 My Contribution
+
+- Designed and developed the Course Page UI
+- Implemented reusable React components
+- Managed project structure and routing
+- Improved responsiveness and layout styling
+- Integrated frontend functionality
+
+---
+
+## 🤝 Collaboration
+
+This project was completed in collaboration with:
+
+**Akshat Srivastava**
+**Riya Bansal**
+
+We worked together to design and structure the course platform for Codru Education.
+
+---
+
+## 📂 Project Setup
+
+To run this project locally:
+
+```bash
+npm install
+npm run dev
